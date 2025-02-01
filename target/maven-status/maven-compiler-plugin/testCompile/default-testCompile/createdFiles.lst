@@ -1,0 +1,10 @@
+hotel\AppTest.class
+hotel\runner\DataInitializerTest.class
+hotel\services\ReceptionistServiceTest.class
+hotel\services\CleaningTaskServiceTest.class
+hotel\services\OperationsManagerServiceTest.class
+hotel\controllers\ViewPagesControllerTest.class
+hotel\services\CleaningStaffServiceTest.class
+hotel\services\BookingServiceTest.class
+hotel\services\CustomerServiceTest.class
+hotel\services\RoomCategoryServiceTest.class
